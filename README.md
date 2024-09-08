@@ -1,4 +1,4 @@
-# incident_responce_training
+# incident_response_training
 
 Our Cyber Threat Management Platform offers robust solutions for identifying and managing cyber threats through Reconnaissance, Profiling, and AI-Driven Phishing Simulations. The platform is designed to enhance an organization's security posture by simulating phishing attacks and profiling potential targets effectively.
 
